@@ -1,14 +1,4 @@
-/**
- * Tiny and simple XML writer util for NodeJS
- * Pavel Minchenkov
- * source: https://github.com/minchenkov/simle-xml-writer
- */
-/**
- * NodeJS wrapper for JavaScript HTML Encoder library http://www.strictly-software.com/htmlencode
- * Pavel Minchenkov
- * source: https://github.com/minchenkov/node-html-encoder
- * Licence: GPL
- */
+
 var Encoder = function(type) {
     return {
 
